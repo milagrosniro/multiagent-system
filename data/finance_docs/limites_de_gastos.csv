@@ -1,0 +1,26 @@
+concepto,limite,moneda,unidad,requiere_comprobante,aprobacion,observaciones
+Comida de negocio con clientes,60,USD,por persona,sí,Líder directo si supera USD 100 en total,Incluye propina; indicar nombres y empresas de participantes
+Comida de equipo,60,USD,por persona por trimestre,sí,Automática dentro del presupuesto,Presupuesto definido por People Team
+Coworking (modalidad remota),120,USD,por mes,sí,Líder directo,Solo personas con contrato en modalidad remota
+Capacitación,1200,USD,por año,sí,RR. HH. en PeopleHub antes de la compra,Cargar en Spendly con categoría Capacitación dentro de los 30 días
+Periféricos menores,150,USD,por compra,sí,IT debe confirmar por ticket que no podía proveerlos,Si IT lo provee no se reembolsa
+Hotel Buenos Aires / Montevideo / CDMX,150,USD,por noche,sí,En la solicitud de viaje,Impuestos incluidos
+Hotel Madrid / Barcelona / Europa,180,EUR,por noche,sí,En la solicitud de viaje,Impuestos incluidos
+Hotel Nueva York / San Francisco / Londres,280,USD,por noche,sí,En la solicitud de viaje,Impuestos incluidos
+Hotel otras ciudades,140,USD,por noche,sí,En la solicitud de viaje,Impuestos incluidos
+Viático diario nacional,45,USD,por día,no,Al cerrar el viaje en Spendly,75% el día de salida y el de regreso
+Viático diario Latinoamérica,60,USD,por día,no,Al cerrar el viaje en Spendly,75% el día de salida y el de regreso
+Viático diario Europa y Estados Unidos,85,USD,por día,no,Al cerrar el viaje en Spendly,75% el día de salida y el de regreso
+Kilometraje con auto propio,0.35,USD,por kilómetro,sí,Líder directo,Requiere registro de origen y destino
+Declaración de comprobante perdido,50,USD,por gasto,no,Líder directo,Máximo 2 declaraciones por trimestre
+Tarjeta corporativa estándar,2000,USD,por mes,sí,Líder y Finance,Justificar cada transacción en 15 días
+Tarjeta corporativa Ventas y Marketing,5000,USD,por mes,sí,Líder y Finance,Justificar cada transacción en 15 días
+Tarjeta corporativa dirección,10000,USD,por mes,sí,Líder y Finance,Justificar cada transacción en 15 días
+Gasto con aprobación automática,100,USD,por gasto,sí,Automática,Con comprobante válido y categoría permitida
+Gasto con aprobación de dirección del área,5000,USD,por gasto,sí,Líder y dirección del área,Entre USD 1.000 y USD 5.000
+Compra sin proceso de Procura,1000,USD,por compra no recurrente,sí,Política de tarjetas,Toda compra recurrente va por Procura sin importar el monto
+Compra con 3 cotizaciones obligatorias,10000,USD,por compra,sí,Procurement,O justificación de proveedor único
+Compra con aprobación del CFO,50000,USD,por compra,sí,CFO,Además de dirección del área y Procurement
+Pedido de presupuesto adicional aprobado por CFO,20000,USD,por pedido,no,CFO,Montos superiores van al comité ejecutivo
+Adelanto de viaje,70,%,de los viáticos estimados,no,Líder directo,Solo viajes de más de 5 días; rendir en 10 días hábiles
+Seguro de viaje (gastos médicos),150000,USD,por viaje,no,Automática al aprobar el viaje,Incluye pérdida de equipaje y cancelaciones por fuerza mayor

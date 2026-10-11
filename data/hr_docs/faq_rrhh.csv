@@ -1,0 +1,25 @@
+pregunta,respuesta,categoria
+¿Dónde descargo mi recibo de sueldo?,"El recibo de sueldo digital está disponible en PeopleHub, sección 'Mi compensación', a partir del primer día hábil del mes siguiente.",nómina
+¿Qué hago si mi recibo de sueldo tiene un error?,"Completá el formulario 'Consulta de nómina' en PeopleHub. El equipo de Payroll de RR. HH. responde en 3 días hábiles.",nómina
+¿Cuándo se paga el sueldo?,El sueldo se paga el último día hábil de cada mes.,nómina
+¿Cuántos NubeDays tengo por año?,"3 NubeDays por año calendario, no acumulables, que vencen el 31 de diciembre.",vacaciones
+¿Puedo pasar vacaciones no usadas al año siguiente?,"Sí, hasta 5 días hábiles, que deben usarse antes del 31 de marzo del año siguiente.",vacaciones
+¿Con cuánta anticipación pido vacaciones largas?,Las vacaciones de 5 días hábiles o más se piden con al menos 30 días corridos de anticipación en PeopleHub.,vacaciones
+¿Cuánto dura la licencia por paternidad?,"8 semanas con goce de sueldo completo para la persona no gestante, en uno o dos bloques dentro de los 12 meses posteriores al nacimiento.",licencias
+¿Necesito certificado médico si falto un día por enfermedad?,No. El certificado médico solo es obligatorio para ausencias por enfermedad de 3 días consecutivos o más.,licencias
+¿Cuántos días me corresponden por mudanza?,1 día hábil por año.,licencias
+¿Cuánto es el presupuesto de capacitación?,"USD 1.200 por año para cursos, certificaciones, libros y conferencias relacionados con el rol. Se aprueba primero en PeopleHub.",desarrollo
+¿Cuándo es la revisión salarial?,"Una vez por año, en abril, después del ciclo de evaluación de desempeño.",compensación
+¿Quién cobra bono anual?,Las personas de nivel L3 en adelante. El bono se paga en marzo del año siguiente.,compensación
+¿Cuánto paga el programa de referidos?,USD 1.500 por persona referida contratada que supere el período de prueba de 3 meses.,beneficios
+¿Cuánto cubre la empresa del seguro de salud?,El 100% de la prima para la persona empleada y el 75% para su grupo familiar directo.,beneficios
+¿Cuántas sesiones de psicología gratuitas tengo?,8 sesiones por año a través del Programa de Asistencia al Empleado (PAE).,bienestar
+¿Cuánto reintegran por el gimnasio?,Hasta USD 50 por mes contra comprobante cargado en PeopleHub.,bienestar
+¿Cuántos días puedo trabajar desde otro país?,"Hasta 30 días corridos por año calendario con el programa Work from Anywhere, solicitado con 15 días de anticipación.",trabajo remoto
+¿Cuál es el horario núcleo?,De 11:00 a 16:00 en la zona horaria del equipo.,trabajo remoto
+¿Cuál es el preaviso para renunciar?,15 días corridos para niveles L1-L3 y 30 días corridos para L4 en adelante.,offboarding
+¿Cómo denuncio una situación de acoso?,"Con tu People Partner o por el canal anónimo EthicsLine (ethicsline.nubesoft.com), disponible 24 horas.",conducta
+¿Cada cuánto son las promociones?,"Dos veces por año, en abril y en octubre.",carrera
+¿Cuánto dura el período de prueba?,3 meses o el plazo que establezca la legislación local.,onboarding
+¿En cuánto tiempo debo completar los cursos obligatorios de ingreso?,En 15 días corridos desde el ingreso a la compañía.,onboarding
+¿Cuánto se paga por semana de guardia?,USD 150 fijos por semana de guardia más las horas trabajadas en incidentes.,compensación

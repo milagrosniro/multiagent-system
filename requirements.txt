@@ -1,0 +1,21 @@
+# Orquestación LLM (LangChain 1.x)
+langchain>=1.4,<2
+langchain-core>=1.6,<2
+langchain-openai>=1.7,<2
+langchain-community>=0.4,<1
+langchain-text-splitters>=1.1,<2
+
+# Modelos y observabilidad
+openai>=3.0
+langfuse>=4.0,<5
+
+# Vector store, tokenización y utilidades
+faiss-cpu>=1.9
+tiktoken>=0.8
+pydantic>=2.7
+python-dotenv>=1.0
+pandas>=2.2
+
+# Notebook
+jupyter>=1.1
+ipykernel>=6.29

@@ -1,0 +1,25 @@
+pregunta,respuesta,categoria
+¿Dónde pido la revisión de un contrato?,"En el portal LegalDesk (legaldesk.nubesoft.com) con una Solicitud legal, adjuntando el contrato en Word, el contexto y la fecha límite.",contratos
+¿Cuánto tarda Legal en revisar un NDA no estándar?,2 días hábiles para la primera revisión.,contratos
+¿Cuánto tarda la revisión de un contrato Enterprise?,7 días hábiles para la primera revisión.,contratos
+¿Quién puede firmar un NDA estándar?,Cualquier persona de nivel L5 o superior.,contratos
+¿Quién firma un contrato de más de USD 250.000?,"El CEO. También los contratos con responsabilidad ilimitada o exclusividad.",contratos
+¿Cuánto dura la confidencialidad de un NDA estándar?,3 años desde la divulgación y 5 años para secretos comerciales.,contratos
+¿Cuál es el tope de responsabilidad estándar con clientes?,"12 meses de facturación del cliente. Topes superiores requieren aprobación del General Counsel.",contratos
+¿Con cuánta anticipación se avisa la no renovación de un contrato?,Con 60 días de anticipación al vencimiento.,contratos
+¿En cuánto tiempo hay que notificar una brecha de datos a la autoridad?,"Dentro de las 72 horas desde que se tomó conocimiento, cuando NubeSoft es responsable y hay riesgo para las personas.",privacidad
+¿En cuánto tiempo se avisa a un cliente de una brecha en sus datos?,"Sin dilación indebida y en un máximo de 48 horas, cuando NubeSoft actúa como encargada.",privacidad
+¿Qué hago si un usuario me pide borrar sus datos?,"No responder directamente: derivarlo a privacy@nubesoft.com. Si es usuario de un cliente, el Privacy Office lo deriva al cliente en 5 días hábiles.",privacidad
+¿Cuánto tiempo se guardan los datos de un cliente que cancela?,"El cliente tiene 30 días para exportarlos; luego se eliminan de producción en 30 días y de los backups en 90 días.",privacidad
+¿Dónde está la lista de subencargados?,"En nubesoft.com/legal/subprocessors. Los cambios se notifican con 30 días de anticipación.",privacidad
+¿Puedo aceptar un regalo de un proveedor?,"Sí si es de valor simbólico de hasta USD 100 por año y contraparte. Si vale más, se declara en LegalDesk en 5 días hábiles. Nunca efectivo ni tarjetas de regalo.",compliance
+¿Puedo invitar a comer a un funcionario público?,"No. Los regalos e invitaciones a funcionarios públicos están prohibidos, salvo artículos promocionales de menos de USD 25 con aprobación de Compliance.",compliance
+¿Cuándo se completa la declaración de conflictos de interés?,"Cada enero en LegalDesk, y cada vez que surja un nuevo conflicto.",compliance
+¿Puedo tener un segundo trabajo?,"Solo con autorización de Compliance, y no si compite con NubeSoft o usa sus recursos.",compliance
+¿Puedo usar una librería con licencia GPL en el producto?,No sin aprobación expresa de Legal. Las licencias copyleft fuertes (GPL y AGPL) están prohibidas en el producto SaaS.,propiedad intelectual
+¿Puedo usar una librería con licencia MIT?,"Sí, sin aprobación previa, respetando los avisos de copyright.",propiedad intelectual
+¿De quién es el código que escribo en mi tiempo libre?,"Es tuyo si no compite con NubeSoft y no usaste equipos, cuentas ni información de la compañía. Podés pedir una Declaración de proyecto personal en LegalDesk.",propiedad intelectual
+¿Cuánto paga NubeSoft por una patente?,USD 2.000 por solicitud presentada y USD 3.000 adicionales si se concede.,propiedad intelectual
+¿Qué hago si recibo una carta documento?,"Reenviarla a legal@nubesoft.com el mismo día, sin responder ni reconocer nada.",disputas
+¿Qué hago si una autoridad pide información de clientes?,"Derivar el requerimiento a legal@nubesoft.com de inmediato. Nadie entrega información sin revisión de Legal.",disputas
+¿Hasta cuándo tengo para hacer el curso de Ética y Anticorrupción?,Hasta el 30 de abril de cada año en NubeAcademy.,compliance

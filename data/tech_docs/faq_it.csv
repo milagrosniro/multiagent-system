@@ -1,0 +1,25 @@
+pregunta,respuesta,categoria
+¿Cuál es el teléfono de la mesa de ayuda de IT?,"+54 11 5555-0100, interno 4357 (HELP). Es para urgencias o cuando no se puede acceder a la cuenta.",soporte
+¿En qué horario atiende la mesa de ayuda?,"De lunes a viernes de 8:00 a 20:00 (hora de Buenos Aires). Fuera de ese horario solo se atienden P1 y P2.",soporte
+¿Cuánto tarda IT en responder un ticket P3?,"4 horas hábiles de primera respuesta, con resolución objetivo en 2 días hábiles.",sla
+¿Cuántos caracteres debe tener mi contraseña?,"Mínimo 14 caracteres. Vence cada 180 días y no puede repetir las últimas 10.",cuentas
+¿Qué hago si mi cuenta quedó bloqueada?,"La cuenta se bloquea 30 minutos después de 5 intentos fallidos y se desbloquea sola. Para urgencias, contactar a IT Support.",cuentas
+¿Puedo usar SMS como segundo factor?,"No como método principal. El SMS solo se acepta como método de recuperación.",mfa
+¿Quién necesita una YubiKey?,"Las personas con acceso a producción, a datos de clientes o a sistemas financieros. Reciben dos llaves: principal y respaldo.",mfa
+¿Cuánto dura una sesión de VPN?,"12 horas. Una sesión inactiva por más de 60 minutos se cierra automáticamente.",vpn
+¿Qué puerto usa la VPN?,"UDP 51820. Si la red lo bloquea, activar el modo TCP fallback en Configuración > Avanzado.",vpn
+¿Cada cuánto se renueva la notebook?,"Cada 3 años. IT contacta a la persona 30 días antes.",hardware
+¿Cuánto tarda el reemplazo de una notebook dañada?,"2 días hábiles en ciudades con oficina y 5 días hábiles en otras ubicaciones.",hardware
+¿Qué hago si me roban la notebook?,"Reportarlo dentro de las 2 horas en #security-incidents o a la mesa de ayuda. IT hace el borrado remoto y hay que cargar la denuncia policial en el ticket.",seguridad
+¿Cómo reporto un correo de phishing?,"Con el botón 'Reportar phishing' de Gmail. Si hiciste clic o ingresaste credenciales, cambiá la contraseña y avisá en #security-incidents.",seguridad
+¿Puedo instalar un programa que no está en el catálogo?,"Sí, con una Solicitud de software en el portal de IT. Seguridad la revisa en 5 días hábiles.",software
+¿Puedo usar ChatGPT personal con código de la empresa?,"No. Solo se pueden usar las herramientas de IA aprobadas con contrato empresarial y nunca con datos de clientes ni credenciales en herramientas no aprobadas.",software
+¿Dónde guardo mis archivos de trabajo?,"En Google Drive corporativo o en el repositorio. Los archivos del disco local no se respaldan.",software
+¿Cómo recupero un archivo borrado de Drive?,"Desde la papelera si tiene menos de 30 días; para hasta 1 año, con un ticket a IT.",software
+¿Cuándo tengo que instalar las actualizaciones de seguridad?,"Las críticas dentro de las 48 horas; las del sistema operativo en general dentro de los 7 días.",hardware
+¿Cómo declaro un incidente de producción?,"Con el comando /incident declare en Slack, que crea el canal del incidente y asigna un Incident Commander.",incidentes
+¿Cuándo hay freeze de cambios?,"Del 20 de diciembre al 5 de enero para cambios no urgentes en producción.",incidentes
+¿Cómo pido acceso a una herramienta?,"Con una Solicitud de acceso en el portal de IT, aprobada por la persona líder y por el dueño de la aplicación si es sensible.",cuentas
+¿Puedo conectar mi celular personal a la red NubeSoft-Corp?,"No. Los dispositivos personales deben usar la red NubeSoft-Guest.",redes
+¿Cuál es la cuota de correo?,50 GB por persona.,software
+¿Cuánto dura el certificado de acceso SSH de Teleport?,8 horas luego de autenticarse con MFA.,accesos

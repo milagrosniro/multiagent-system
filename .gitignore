@@ -1,0 +1,15 @@
+# Secretos
+.env
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Índices FAISS generados (se reconstruyen automáticamente)
+vectorstores/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/

@@ -1,0 +1,22 @@
+[
+  {"id": 1, "query": "¿Cuántos días de vacaciones me corresponden si tengo 3 años de antigüedad?", "expected_route": "hr", "case_type": "standard", "notes": "15 días hábiles + 3 NubeDays"},
+  {"id": 2, "query": "¿Cuánto dura la licencia por paternidad y puedo dividirla?", "expected_route": "hr", "case_type": "standard", "notes": "8 semanas, hasta dos bloques en 12 meses"},
+  {"id": 3, "query": "Hay un error en los descuentos de mi recibo de sueldo, ¿a quién le escribo?", "expected_route": "hr", "case_type": "edge_cross_domain", "notes": "Parece Finance pero el sueldo es de Payroll (RR. HH.)"},
+  {"id": 4, "query": "La VPN me dice 'Handshake did not complete' desde el hotel, ¿qué hago?", "expected_route": "tech", "case_type": "standard", "notes": "Hora del equipo, puerto UDP 51820, TCP fallback"},
+  {"id": 5, "query": "Cambié de celular y perdí el Okta Verify, no puedo entrar a nada", "expected_route": "tech", "case_type": "standard", "notes": "Chat de soporte sin login o mesa de ayuda; verificación por videollamada"},
+  {"id": 6, "query": "Me robaron la notebook del trabajo en el colectivo", "expected_route": "tech", "case_type": "edge_cross_domain", "notes": "Incidente de seguridad (IT) que puede derivar en Legal"},
+  {"id": 7, "query": "¿Cuál es el tope de hotel por noche si viajo a Madrid?", "expected_route": "finance", "case_type": "standard", "notes": "EUR 180 por noche"},
+  {"id": 8, "query": "Ya me aprobaron el curso de AWS en PeopleHub, ¿cómo hago para que me devuelvan la plata?", "expected_route": "finance", "case_type": "edge_cross_domain", "notes": "Aprobación de RR. HH. pero el reembolso es por Spendly (Finance)"},
+  {"id": 9, "query": "Un cliente Enterprise no paga hace 35 días, ¿qué pasa con su cuenta?", "expected_route": "finance", "case_type": "standard", "notes": "Suspensión de funcionalidades no esenciales desde el día 30"},
+  {"id": 10, "query": "Un prospecto nos mandó su propio NDA para firmar, ¿lo puedo firmar yo?", "expected_route": "legal", "case_type": "standard", "notes": "NDA de la contraparte requiere revisión de Legal"},
+  {"id": 11, "query": "Can I use a GPL-licensed library inside our SaaS product?", "expected_route": "legal", "case_type": "edge_language", "notes": "Consulta en inglés; GPL prohibida sin aprobación de Legal"},
+  {"id": 12, "query": "Un proveedor me quiere regalar una notebook gamer por fin de año, ¿la acepto?", "expected_route": "legal", "case_type": "edge_cross_domain", "notes": "Menciona 'notebook' (IT) pero es política de regalos (Compliance)"},
+  {"id": 13, "query": "¿En cuánto tiempo hay que avisarle a un cliente si se filtraron sus datos?", "expected_route": "legal", "case_type": "standard", "notes": "48 horas como encargada"},
+  {"id": 14, "query": "kuantos dias de bacaciones tengo el primer año??", "expected_route": "hr", "case_type": "edge_typos", "notes": "Errores de tipeo"},
+  {"id": 15, "query": "vpn", "expected_route": "tech", "case_type": "edge_short", "notes": "Consulta de una sola palabra"},
+  {"id": 16, "query": "¿Quién ganó el partido de Boca ayer?", "expected_route": "out_of_scope", "case_type": "edge_out_of_scope", "notes": "Debe rechazarse sin llamar a ningún agente RAG"},
+  {"id": 17, "query": "Dame una receta de empanadas salteñas", "expected_route": "out_of_scope", "case_type": "edge_out_of_scope", "notes": "Fuera de alcance"},
+  {"id": 18, "query": "¿NubeSoft ofrece seguro de vida para las mascotas de los empleados?", "expected_route": "hr", "case_type": "edge_no_answer", "notes": "Tema de HR que NO está en la documentación: el agente debe admitir que no lo encuentra"},
+  {"id": 19, "query": "¿Con cuántos días de anticipación tengo que pedir la solicitud de viaje para un vuelo internacional?", "expected_route": "finance", "case_type": "standard", "notes": "14 días de anticipación"},
+  {"id": 20, "query": "¿Cada cuánto vence la contraseña y cuántos caracteres tiene que tener?", "expected_route": "tech", "case_type": "standard", "notes": "180 días, mínimo 14 caracteres"}
+]
